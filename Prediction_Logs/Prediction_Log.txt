@@ -1,0 +1,277 @@
+2020-02-15/17:34:20		Start of Validation on files for prediction!!
+2020-02-15/17:34:20		Raw Data Validation Complete!!
+2020-02-15/17:34:20		Starting Data Transforamtion!!
+2020-02-15/17:34:21		DataTransformation Completed!!!
+2020-02-15/17:34:21		Creating Prediction_Database and tables on the basis of given schema!!!
+2020-02-15/17:34:25		Table creation Completed!!
+2020-02-15/17:34:25		Insertion of Data into Table started!!!!
+2020-02-15/17:35:36		Insertion in Table completed!!!
+2020-02-15/17:35:36		Deleting Good Data Folder!!!
+2020-02-15/17:35:36		Good_Data folder deleted!!!
+2020-02-15/17:35:36		Moving bad files to Archive and deleting Bad_Data folder!!!
+2020-02-15/17:35:36		Bad files moved to archive!! Bad folder Deleted!!
+2020-02-15/17:35:36		Validation Operation completed!!
+2020-02-15/17:35:36		Extracting csv file from table
+2020-02-15/17:37:04		Start of Prediction
+2020-02-15/17:37:04		Entered the get_data method of the Data_Getter class
+2020-02-15/17:37:04		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-02-15/17:37:04		Entered the remove_columns method of the Preprocessor class
+2020-02-15/17:37:04		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2020-02-15/17:37:04		Entered the is_null_present method of the Preprocessor class
+2020-02-15/17:37:04		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2020-02-15/17:37:04		Entered the impute_missing_values method of the Preprocessor class
+2020-02-15/17:37:04		Imputing missing values Successful. Exited the impute_missing_values method of the Preprocessor class
+2020-02-15/17:37:07		Entered the encode_categorical_columns method of the Preprocessor class
+2020-02-15/17:37:07		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2020-02-15/17:37:10		Entered the scale_numerical_columns method of the Preprocessor class
+2020-02-15/17:37:20		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2020-02-15/17:37:24		Entered the load_model method of the File_Operation class
+2020-02-15/17:37:24		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2020-02-15/17:37:29		Entered the find_correct_model_file method of the File_Operation class
+2020-02-15/17:37:29		Exited the find_correct_model_file method of the Model_Finder class.
+2020-02-15/17:37:30		Entered the load_model method of the File_Operation class
+2020-02-15/17:37:30		Model File XGBoost0 loaded. Exited the load_model method of the Model_Finder class
+2020-02-15/17:37:41		End of Prediction
+2020-04-13/15:26:22		Start of Prediction
+2020-04-13/15:26:22		Entered the get_data method of the Data_Getter class
+2020-04-13/15:26:22		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-04-13/15:26:22		Entered the remove_columns method of the Preprocessor class
+2020-04-13/15:26:22		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2020-04-13/15:26:22		Entered the is_null_present method of the Preprocessor class
+2020-04-13/15:26:22		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2020-04-13/15:26:22		Entered the impute_missing_values method of the Preprocessor class
+2020-04-13/15:26:22		Imputing missing values Successful. Exited the impute_missing_values method of the Preprocessor class
+2020-04-13/15:26:22		Entered the encode_categorical_columns method of the Preprocessor class
+2020-04-13/15:26:22		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2020-04-13/15:26:22		Entered the scale_numerical_columns method of the Preprocessor class
+2020-04-13/15:26:22		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2020-04-13/15:26:22		Entered the load_model method of the File_Operation class
+2020-04-13/15:26:22		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2020-04-13/15:26:22		Entered the find_correct_model_file method of the File_Operation class
+2020-04-13/15:26:22		Exited the find_correct_model_file method of the Model_Finder class.
+2020-04-13/15:26:22		Entered the load_model method of the File_Operation class
+2020-04-13/15:26:22		Model File XGBoost0 loaded. Exited the load_model method of the Model_Finder class
+2020-04-13/15:26:22		End of Prediction
+2021-06-05/22:21:31		Start of Validation on files for prediction!!
+2021-06-05/22:21:31		Raw Data Validation Complete!!
+2021-06-05/22:21:31		Starting Data Transforamtion!!
+2021-06-05/22:21:31		DataTransformation Completed!!!
+2021-06-05/22:21:31		Creating Prediction_Database and tables on the basis of given schema!!!
+2021-06-05/22:21:33		Table creation Completed!!
+2021-06-05/22:21:33		Insertion of Data into Table started!!!!
+2021-06-05/22:22:28		Insertion in Table completed!!!
+2021-06-05/22:22:28		Deleting Good Data Folder!!!
+2021-06-05/22:22:28		Good_Data folder deleted!!!
+2021-06-05/22:22:28		Moving bad files to Archive and deleting Bad_Data folder!!!
+2021-06-05/22:22:28		Bad files moved to archive!! Bad folder Deleted!!
+2021-06-05/22:22:28		Validation Operation completed!!
+2021-06-05/22:22:28		Extracting csv file from table
+2021-06-05/22:22:28		Start of Prediction
+2021-06-05/22:22:28		Entered the get_data method of the Data_Getter class
+2021-06-05/22:22:28		Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-06-05/22:22:28		Entered the remove_columns method of the Preprocessor class
+2021-06-05/22:22:28		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2021-06-05/22:22:28		Entered the is_null_present method of the Preprocessor class
+2021-06-05/22:22:28		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2021-06-05/22:22:28		Entered the impute_missing_values method of the Preprocessor class
+2021-06-05/22:22:28		Imputing missing values Successful. Exited the impute_missing_values method of the Preprocessor class
+2021-06-05/22:22:28		Entered the encode_categorical_columns method of the Preprocessor class
+2021-06-05/22:22:28		Exception occured in encode_categorical_columns method of the Preprocessor class. Exception message:  Cannot interpret '<attribute 'dtype' of 'numpy.generic' objects>' as a data type
+2021-06-05/22:22:28		encoding for categorical columns Failed. Exited the encode_categorical_columns method of the Preprocessor class
+2021-06-05/22:22:28		Error occured while running the prediction!! Error:: 
+2021-06-05/22:40:27		Start of Validation on files for prediction!!
+2021-06-05/22:40:28		Raw Data Validation Complete!!
+2021-06-05/22:40:28		Starting Data Transforamtion!!
+2021-06-05/22:40:28		DataTransformation Completed!!!
+2021-06-05/22:40:28		Creating Prediction_Database and tables on the basis of given schema!!!
+2021-06-05/22:40:30		Table creation Completed!!
+2021-06-05/22:40:30		Insertion of Data into Table started!!!!
+2021-06-05/22:40:55		Insertion in Table completed!!!
+2021-06-05/22:40:55		Deleting Good Data Folder!!!
+2021-06-05/22:40:55		Good_Data folder deleted!!!
+2021-06-05/22:40:55		Moving bad files to Archive and deleting Bad_Data folder!!!
+2021-06-05/22:40:55		Bad files moved to archive!! Bad folder Deleted!!
+2021-06-05/22:40:55		Validation Operation completed!!
+2021-06-05/22:40:55		Extracting csv file from table
+2021-06-05/22:40:55		Start of Prediction
+2021-06-05/22:40:55		Entered the get_data method of the Data_Getter class
+2021-06-05/22:40:55		Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-06-05/22:40:55		Entered the remove_columns method of the Preprocessor class
+2021-06-05/22:40:55		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2021-06-05/22:40:55		Entered the is_null_present method of the Preprocessor class
+2021-06-05/22:40:55		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2021-06-05/22:40:55		Entered the impute_missing_values method of the Preprocessor class
+2021-06-05/22:40:55		Imputing missing values Successful. Exited the impute_missing_values method of the Preprocessor class
+2021-06-05/22:40:55		Entered the encode_categorical_columns method of the Preprocessor class
+2021-06-05/22:40:55		Exception occured in encode_categorical_columns method of the Preprocessor class. Exception message:  Cannot interpret '<attribute 'dtype' of 'numpy.generic' objects>' as a data type
+2021-06-05/22:40:55		encoding for categorical columns Failed. Exited the encode_categorical_columns method of the Preprocessor class
+2021-06-05/22:40:55		Error occured while running the prediction!! Error:: 
+2021-06-06/22:23:00		Start of Validation on files for prediction!!
+2021-06-06/22:23:01		Raw Data Validation Complete!!
+2021-06-06/22:23:01		Starting Data Transforamtion!!
+2021-06-06/22:23:01		DataTransformation Completed!!!
+2021-06-06/22:23:01		Creating Prediction_Database and tables on the basis of given schema!!!
+2021-06-06/22:23:03		Table creation Completed!!
+2021-06-06/22:23:03		Insertion of Data into Table started!!!!
+2021-06-06/22:23:52		Insertion in Table completed!!!
+2021-06-06/22:23:52		Deleting Good Data Folder!!!
+2021-06-06/22:23:52		Good_Data folder deleted!!!
+2021-06-06/22:23:52		Moving bad files to Archive and deleting Bad_Data folder!!!
+2021-06-06/22:23:52		Bad files moved to archive!! Bad folder Deleted!!
+2021-06-06/22:23:52		Validation Operation completed!!
+2021-06-06/22:23:52		Extracting csv file from table
+2021-06-06/22:23:52		Start of Prediction
+2021-06-06/22:23:52		Entered the get_data method of the Data_Getter class
+2021-06-06/22:23:52		Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-06-06/22:23:52		Entered the remove_columns method of the Preprocessor class
+2021-06-06/22:23:52		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2021-06-06/22:23:52		Entered the is_null_present method of the Preprocessor class
+2021-06-06/22:23:52		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2021-06-06/22:23:52		Entered the impute_missing_values method of the Preprocessor class
+2021-06-06/22:23:52		Imputing missing values Successful. Exited the impute_missing_values method of the Preprocessor class
+2021-06-06/22:23:52		Entered the encode_categorical_columns method of the Preprocessor class
+2021-06-06/22:23:52		Exception occured in encode_categorical_columns method of the Preprocessor class. Exception message:  Cannot interpret '<attribute 'dtype' of 'numpy.generic' objects>' as a data type
+2021-06-06/22:23:52		encoding for categorical columns Failed. Exited the encode_categorical_columns method of the Preprocessor class
+2021-06-06/22:23:52		Error occured while running the prediction!! Error:: 
+2021-06-06/22:29:55		Start of Validation on files for prediction!!
+2021-06-06/22:29:56		Raw Data Validation Complete!!
+2021-06-06/22:29:56		Starting Data Transforamtion!!
+2021-06-06/22:29:56		DataTransformation Completed!!!
+2021-06-06/22:29:56		Creating Prediction_Database and tables on the basis of given schema!!!
+2021-06-06/22:29:58		Table creation Completed!!
+2021-06-06/22:29:58		Insertion of Data into Table started!!!!
+2021-06-06/22:30:34		Insertion in Table completed!!!
+2021-06-06/22:30:34		Deleting Good Data Folder!!!
+2021-06-06/22:30:34		Good_Data folder deleted!!!
+2021-06-06/22:30:34		Moving bad files to Archive and deleting Bad_Data folder!!!
+2021-06-06/22:30:34		Bad files moved to archive!! Bad folder Deleted!!
+2021-06-06/22:30:34		Validation Operation completed!!
+2021-06-06/22:30:34		Extracting csv file from table
+2021-06-06/22:30:34		Start of Prediction
+2021-06-06/22:30:34		Entered the get_data method of the Data_Getter class
+2021-06-06/22:30:34		Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-06-06/22:30:34		Entered the remove_columns method of the Preprocessor class
+2021-06-06/22:30:34		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2021-06-06/22:30:34		Entered the is_null_present method of the Preprocessor class
+2021-06-06/22:30:34		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2021-06-06/22:30:34		Entered the impute_missing_values method of the Preprocessor class
+2021-06-06/22:30:35		Imputing missing values Successful. Exited the impute_missing_values method of the Preprocessor class
+2021-06-06/22:30:35		Entered the encode_categorical_columns method of the Preprocessor class
+2021-06-06/22:30:35		Exception occured in encode_categorical_columns method of the Preprocessor class. Exception message:  Cannot interpret '<attribute 'dtype' of 'numpy.generic' objects>' as a data type
+2021-06-06/22:30:35		encoding for categorical columns Failed. Exited the encode_categorical_columns method of the Preprocessor class
+2021-06-06/22:30:35		Error occured while running the prediction!! Error:: 
+2021-06-06/22:34:27		Start of Validation on files for prediction!!
+2021-06-06/22:34:27		Raw Data Validation Complete!!
+2021-06-06/22:34:27		Starting Data Transforamtion!!
+2021-06-06/22:34:28		DataTransformation Completed!!!
+2021-06-06/22:34:28		Creating Prediction_Database and tables on the basis of given schema!!!
+2021-06-06/22:34:29		Table creation Completed!!
+2021-06-06/22:34:29		Insertion of Data into Table started!!!!
+2021-06-06/22:34:57		Insertion in Table completed!!!
+2021-06-06/22:34:57		Deleting Good Data Folder!!!
+2021-06-06/22:34:57		Good_Data folder deleted!!!
+2021-06-06/22:34:57		Moving bad files to Archive and deleting Bad_Data folder!!!
+2021-06-06/22:34:57		Bad files moved to archive!! Bad folder Deleted!!
+2021-06-06/22:34:57		Validation Operation completed!!
+2021-06-06/22:34:57		Extracting csv file from table
+2021-06-06/22:34:58		Start of Prediction
+2021-06-06/22:34:58		Entered the get_data method of the Data_Getter class
+2021-06-06/22:34:58		Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-06-06/22:34:58		Entered the remove_columns method of the Preprocessor class
+2021-06-06/22:34:58		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2021-06-06/22:34:58		Entered the is_null_present method of the Preprocessor class
+2021-06-06/22:34:58		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2021-06-06/22:34:58		Entered the impute_missing_values method of the Preprocessor class
+2021-06-06/22:34:58		Imputing missing values Successful. Exited the impute_missing_values method of the Preprocessor class
+2021-06-06/22:34:58		Entered the encode_categorical_columns method of the Preprocessor class
+2021-06-06/22:34:58		Exception occured in encode_categorical_columns method of the Preprocessor class. Exception message:  Cannot interpret '<attribute 'dtype' of 'numpy.generic' objects>' as a data type
+2021-06-06/22:34:58		encoding for categorical columns Failed. Exited the encode_categorical_columns method of the Preprocessor class
+2021-06-06/22:34:58		Error occured while running the prediction!! Error:: 
+2021-06-06/22:40:11		Start of Validation on files for prediction!!
+2021-06-06/22:40:11		Raw Data Validation Complete!!
+2021-06-06/22:40:11		Starting Data Transforamtion!!
+2021-06-06/22:40:11		DataTransformation Completed!!!
+2021-06-06/22:40:11		Creating Prediction_Database and tables on the basis of given schema!!!
+2021-06-06/22:40:13		Table creation Completed!!
+2021-06-06/22:40:13		Insertion of Data into Table started!!!!
+2021-06-06/22:41:07		Insertion in Table completed!!!
+2021-06-06/22:41:07		Deleting Good Data Folder!!!
+2021-06-06/22:41:07		Good_Data folder deleted!!!
+2021-06-06/22:41:07		Moving bad files to Archive and deleting Bad_Data folder!!!
+2021-06-06/22:41:07		Bad files moved to archive!! Bad folder Deleted!!
+2021-06-06/22:41:07		Validation Operation completed!!
+2021-06-06/22:41:07		Extracting csv file from table
+2021-06-06/22:41:07		Start of Prediction
+2021-06-06/22:41:07		Entered the get_data method of the Data_Getter class
+2021-06-06/22:41:07		Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-06-06/22:41:07		Entered the remove_columns method of the Preprocessor class
+2021-06-06/22:41:07		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2021-06-06/22:41:07		Entered the is_null_present method of the Preprocessor class
+2021-06-06/22:41:07		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2021-06-06/22:41:07		Entered the impute_missing_values method of the Preprocessor class
+2021-06-06/22:41:07		Imputing missing values Successful. Exited the impute_missing_values method of the Preprocessor class
+2021-06-06/22:41:07		Entered the encode_categorical_columns method of the Preprocessor class
+2021-06-06/22:41:07		Exception occured in encode_categorical_columns method of the Preprocessor class. Exception message:  Cannot interpret '<attribute 'dtype' of 'numpy.generic' objects>' as a data type
+2021-06-06/22:41:07		encoding for categorical columns Failed. Exited the encode_categorical_columns method of the Preprocessor class
+2021-06-06/22:41:07		Error occured while running the prediction!! Error:: 
+2021-06-06/22:53:49		Start of Validation on files for prediction!!
+2021-06-06/22:53:49		Raw Data Validation Complete!!
+2021-06-06/22:53:49		Starting Data Transforamtion!!
+2021-06-06/22:53:49		DataTransformation Completed!!!
+2021-06-06/22:53:49		Creating Prediction_Database and tables on the basis of given schema!!!
+2021-06-06/22:53:51		Table creation Completed!!
+2021-06-06/22:53:51		Insertion of Data into Table started!!!!
+2021-06-06/22:54:30		Insertion in Table completed!!!
+2021-06-06/22:54:30		Deleting Good Data Folder!!!
+2021-06-06/22:54:30		Good_Data folder deleted!!!
+2021-06-06/22:54:30		Moving bad files to Archive and deleting Bad_Data folder!!!
+2021-06-06/22:54:30		Bad files moved to archive!! Bad folder Deleted!!
+2021-06-06/22:54:30		Validation Operation completed!!
+2021-06-06/22:54:30		Extracting csv file from table
+2021-06-06/22:54:30		Start of Prediction
+2021-06-06/22:54:30		Entered the get_data method of the Data_Getter class
+2021-06-06/22:54:30		Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-06-06/22:54:30		Entered the remove_columns method of the Preprocessor class
+2021-06-06/22:54:30		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2021-06-06/22:54:30		Entered the is_null_present method of the Preprocessor class
+2021-06-06/22:54:30		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2021-06-06/22:54:30		Entered the impute_missing_values method of the Preprocessor class
+2021-06-06/22:54:30		Imputing missing values Successful. Exited the impute_missing_values method of the Preprocessor class
+2021-06-06/22:54:30		Entered the encode_categorical_columns method of the Preprocessor class
+2021-06-06/22:54:30		Exception occured in encode_categorical_columns method of the Preprocessor class. Exception message:  Cannot interpret '<attribute 'dtype' of 'numpy.generic' objects>' as a data type
+2021-06-06/22:54:30		encoding for categorical columns Failed. Exited the encode_categorical_columns method of the Preprocessor class
+2021-06-06/22:54:30		Error occured while running the prediction!! Error:: 
+2021-06-06/23:13:26		Start of Validation on files for prediction!!
+2021-06-06/23:13:26		Raw Data Validation Complete!!
+2021-06-06/23:13:26		Starting Data Transforamtion!!
+2021-06-06/23:13:26		DataTransformation Completed!!!
+2021-06-06/23:13:26		Creating Prediction_Database and tables on the basis of given schema!!!
+2021-06-06/23:13:28		Table creation Completed!!
+2021-06-06/23:13:28		Insertion of Data into Table started!!!!
+2021-06-06/23:14:02		Insertion in Table completed!!!
+2021-06-06/23:14:02		Deleting Good Data Folder!!!
+2021-06-06/23:14:02		Good_Data folder deleted!!!
+2021-06-06/23:14:02		Moving bad files to Archive and deleting Bad_Data folder!!!
+2021-06-06/23:14:02		Bad files moved to archive!! Bad folder Deleted!!
+2021-06-06/23:14:02		Validation Operation completed!!
+2021-06-06/23:14:02		Extracting csv file from table
+2021-06-06/23:14:02		Start of Prediction
+2021-06-06/23:14:02		Entered the get_data method of the Data_Getter class
+2021-06-06/23:14:02		Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-06-06/23:14:02		Entered the remove_columns method of the Preprocessor class
+2021-06-06/23:14:02		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2021-06-06/23:14:02		Entered the is_null_present method of the Preprocessor class
+2021-06-06/23:14:02		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2021-06-06/23:14:02		Entered the impute_missing_values method of the Preprocessor class
+2021-06-06/23:14:02		Imputing missing values Successful. Exited the impute_missing_values method of the Preprocessor class
+2021-06-06/23:14:02		Entered the encode_categorical_columns method of the Preprocessor class
+2021-06-06/23:14:02		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2021-06-06/23:14:02		Entered the scale_numerical_columns method of the Preprocessor class
+2021-06-06/23:14:02		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2021-06-06/23:14:02		Entered the load_model method of the File_Operation class
+2021-06-06/23:14:02		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2021-06-06/23:14:02		Entered the find_correct_model_file method of the File_Operation class
+2021-06-06/23:14:02		Exited the find_correct_model_file method of the Model_Finder class.
+2021-06-06/23:14:02		Entered the load_model method of the File_Operation class
+2021-06-06/23:14:02		Model File XGBoost0 loaded. Exited the load_model method of the Model_Finder class
+2021-06-06/23:14:02		End of Prediction
