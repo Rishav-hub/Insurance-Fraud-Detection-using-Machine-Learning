@@ -4,7 +4,7 @@ class Data_Getter_Pred:
     """
     This class shall  be used for obtaining the data from the source for prediction.
 
-    Written By: iNeuron Intelligence
+    Written By: Rishav Dash
     Version: 1.0
     Revisions: None
 
@@ -21,7 +21,7 @@ class Data_Getter_Pred:
         Output: A pandas DataFrame.
         On Failure: Raise Exception
 
-         Written By: iNeuron Intelligence
+         Written By: Rishav Dash
         Version: 1.0
         Revisions: None
 

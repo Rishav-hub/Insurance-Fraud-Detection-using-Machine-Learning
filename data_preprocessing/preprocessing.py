@@ -7,7 +7,7 @@ class Preprocessor:
     """
         This class shall  be used to clean and transform the data before training.
 
-        Written By: iNeuron Intelligence
+        Written By: Rishav Dash
         Version: 1.0
         Revisions: None
 
@@ -24,7 +24,7 @@ class Preprocessor:
                         Output: A pandas DataFrame after removing the spaces.
                         On Failure: Raise Exception
 
-                        Written By: iNeuron Intelligence
+                        Written By: Rishav Dash
                         Version: 1.0
                         Revisions: None
 
@@ -53,7 +53,7 @@ class Preprocessor:
                 Output: A pandas DataFrame after removing the specified columns.
                 On Failure: Raise Exception
 
-                Written By: iNeuron Intelligence
+                Written By: Rishav Dash
                 Version: 1.0
                 Revisions: None
 
@@ -79,7 +79,7 @@ class Preprocessor:
                         Output: Returns two separate Dataframes, one containing features and the other containing Labels .
                         On Failure: Raise Exception
 
-                        Written By: iNeuron Intelligence
+                        Written By: Rishav Dash
                         Version: 1.0
                         Revisions: None
 
@@ -104,7 +104,7 @@ class Preprocessor:
                                         returns the list of columns for which null values are present.
                                 On Failure: Raise Exception
 
-                                Written By: iNeuron Intelligence
+                                Written By: Rishav Dash
                                 Version: 1.0
                                 Revisions: None
 
@@ -138,7 +138,7 @@ class Preprocessor:
                                         Output: A Dataframe which has all the missing values imputed.
                                         On Failure: Raise Exception
 
-                                        Written By: iNeuron Intelligence
+                                        Written By: Rishav Dash
                                         Version: 1.0
                                         Revisions: None
                      """
@@ -162,7 +162,7 @@ class Preprocessor:
                                                         Output: A dataframe with scaled values
                                                         On Failure: Raise Exception
 
-                                                        Written By: iNeuron Intelligence
+                                                        Written By: Rishav Dash
                                                         Version: 1.0
                                                         Revisions: None
                                      """
@@ -198,7 +198,7 @@ class Preprocessor:
                                                 Output: dataframe with categorical values converted to numerical values
                                                 On Failure: Raise Exception
 
-                                                Written By: iNeuron Intelligence
+                                                Written By: Rishav Dash
                                                 Version: 1.0
                                                 Revisions: None
                              """
@@ -246,7 +246,7 @@ class Preprocessor:
         Output: new balanced feature and target columns
         On Failure: Raise Exception
 
-        Written By: iNeuron Intelligence
+        Written By: Rishav Dash
         Version: 1.0
         Revisions: None
                                      """

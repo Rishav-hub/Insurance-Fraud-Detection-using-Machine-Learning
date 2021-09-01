@@ -1,7 +1,7 @@
 """
 This is the Entry point for Training the Machine Learning Model.
 
-Written By: iNeuron Intelligence
+Written By: Rishav Dash
 Version: 1.0
 Revisions: None
 
