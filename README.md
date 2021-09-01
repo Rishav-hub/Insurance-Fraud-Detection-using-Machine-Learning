@@ -2,7 +2,7 @@
 
 ## About this Project
 
-This project is based on insurance domain.
+This project is based on **Insurance Domain**.
 
 Imagine a situation where an Insurance Company is receiving **tons of request** from its cutomer for their **claims**. In such situation they dont have much time to go through each and every application for checking if its a **false claim or not**.
 
