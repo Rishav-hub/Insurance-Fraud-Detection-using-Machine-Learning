@@ -1,5 +1,15 @@
 # Insurance Fraud-Detection-using-Machine-Learning
 
+## Demo
+
+Link to the Project - https://fraud-mldeploy.herokuapp.com/
+
+![prediction](assets/image/prediction.PNG)
+
+Prediction saved to a particular folder - 
+
+![prediction](assets/image/page.PNG)
+
 ## About this Project
 
 This project is based on **Insurance Domain**.
@@ -49,7 +59,11 @@ python main.py
 
 ### You are done and Good to go
 
-## Usages
+## Deployment
+
+This project is deployed in Heroku Cloud
+
+![deploy](assets/image/deploy.PNG)
 
 
 ## Future work
